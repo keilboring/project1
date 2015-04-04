@@ -1,5 +1,8 @@
 #ignore all exe files
 *.exe
 
+#ignore object files
+*.o
+
 #ignore all vim files
-*.*~
+*~
